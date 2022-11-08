@@ -16,7 +16,7 @@ const FeedbackOptions = (props) => {
       ))}
       <button
         className={styles.btnClear}
-        key="clear"
+        key="clears"
         name="clear"
         onClick={props.onClearFeedback}
         >
